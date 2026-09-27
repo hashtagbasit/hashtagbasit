@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Basit — Software, from the hardware up.</title>
+<desc id="desc">An ink and cream title card with an orange accent and a line drawing of a handheld computer.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#283334" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="360" rx="12" fill="#141e20"/>
+<rect x="740" width="460" height="360" fill="url(#grid)"/>
+<path d="M52 51h36" stroke="#eeaa73" stroke-width="4"/>
+<text x="106" y="57" fill="#b6c3c0" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2.5">INDEPENDENT DEVELOPER</text>
+<text x="48" y="176" fill="#f4f1e8" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="700" letter-spacing="-6">Basit<tspan fill="#eeaa73">.</tspan></text>
+<text x="53" y="230" fill="#f4f1e8" font-family="Arial,Helvetica,sans-serif" font-size="29">Software, from the hardware up.</text>
+<text x="54" y="307" fill="#9bafaa" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2.2">LINUX / ARM / macOS / ANDROID</text>
+<g transform="translate(805 102) rotate(-8 157 80)" fill="none" stroke="#9bafaa" stroke-width="2">
+<rect width="310" height="155" rx="37" fill="#192629"/>
+<rect x="64" y="21" width="184" height="112" rx="6" fill="#111a1c"/>
+<circle cx="33" cy="45" r="13"/><circle cx="276" cy="109" r="13"/>
+<path d="M28 89v-10h10v10h10v10H38v10H28V99H18V89Z"/>
+<g fill="#eeaa73" stroke="none"><circle cx="274" cy="34" r="4"/><circle cx="286" cy="46" r="4"/><circle cx="262" cy="46" r="4"/><circle cx="274" cy="58" r="4"/></g>
+<path d="m91 50 12 10-12 10m22 0h21" stroke="#eeaa73" stroke-width="3"/>
+<path d="M90 93h102m-102 12h74" stroke="#425957"/>
+<circle cx="229" cy="117" r="3" fill="#eeaa73" stroke="none"/>
+</g>
+<path d="M820 294h271" stroke="#425957"/>
+<text x="821" y="320" fill="#9bafaa" font-family="monospace" font-size="12" letter-spacing="1.6">CODE → DEVICE → DAILY USE</text>
+</svg>
