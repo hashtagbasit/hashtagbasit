@@ -1,4 +1,4 @@
-# Muhammad Basit
+# Basit
 
 I work on handheld Linux, Android apps and native Mac tools. Most of it started with something I wanted to use myself.
 
