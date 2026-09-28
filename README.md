@@ -1,13 +1,11 @@
-<p>
-  <img src="assets/header.svg" width="100%" alt="Basit — SteamOS, handhelds and PC gaming">
-</p>
+# Hi, I'm Basit
 
-I'm working on **[SteamOS for ARM handhelds](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds)**. The goal is to bring it to ARM handhelds across different brands, with support for more devices as the project develops.
+I'm currently working on **[SteamOS for ARM handhelds](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds)**. The goal is to bring it to ARM handhelds across different brands, with more devices supported as the project develops.
 
-I spend a lot of my time with handhelds, PC games and the software that runs them. I enjoy testing things, figuring out why something isn't working, and seeing how far a device can go.
+I'm into PC gaming, hardware and the software behind them. I enjoy trying things out, digging into problems I run into, and sharing what I learn along the way.
 
-[Source & setup](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds) &nbsp; · &nbsp; [Download the latest release](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds/releases)
+[SteamOS project](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds) · [Releases and downloads](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds/releases)
 
 ---
 
-I'm looking for work in tech and gaming. That could be developing software, testing hardware or games, or working with a review team. If what I'm building here is relevant to your team, I'd like to hear from you.
+I'd like to make this kind of work my day job. I'm interested in software development, hardware and game testing, and working with tech review teams. If there's a place for that on your team, I'd like to hear from you.
