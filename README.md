@@ -1,6 +1,6 @@
 # Hi, I'm Basit
 
-I'm currently working on **[SteamOS for ARM handhelds](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds)**. The goal is to bring it to ARM handhelds across different brands, with more devices supported as the project develops.
+I'm currently working on **[SteamOS for ARM handhelds](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds)**. The goal is to bring it to ARM handhelds across different SOCs, with more devices supported as the project develops.
 
 I'm into PC gaming, hardware and the software behind them. I enjoy trying things out, digging into problems I run into, and sharing what I learn along the way.
 
