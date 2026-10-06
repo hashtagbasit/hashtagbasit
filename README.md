@@ -4,7 +4,7 @@ I'm currently working on **[Unofficial SteamOS Arm Port for ARM handhelds](https
 
 I'm into PC gaming, hardware and the software behind them. I enjoy trying things out, digging into problems I run into, and sharing what I learn along the way.
 
-[SteamOS project](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds) · [Releases and downloads](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds/releases)
+[Unofficial SteamOS ARM Port project](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds) · [Releases and downloads](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds/releases)
 
 ---
 
