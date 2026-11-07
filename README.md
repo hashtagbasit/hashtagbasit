@@ -1,10 +1,10 @@
 # Hi, I'm Basit
 
-I'm currently working on **[Unofficial SteamOS Arm Port for ARM handhelds](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds)**. The goal is to bring it to ARM handhelds across different SOCs, with more devices supported as the project develops.
+I'm the maintainer of **[Zaviya](https://github.com/hashtagbasit/Zaviya)**, a Linux distribution based on SteamOS for ARM, built for ARM handhelds and tablets. It runs on Snapdragon handhelds from AYN, AYANEO, KONKR, Retroid and MANGMI, with more devices added as the project grows. Zaviya was formerly known as Unofficial SteamOS ARM Port.
 
 I'm into PC gaming, hardware and the software behind them. I enjoy trying things out, digging into problems I run into, and sharing what I learn along the way.
 
-[Unofficial SteamOS ARM Port project](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds) · [Releases and downloads](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds/releases)
+[Zaviya](https://github.com/hashtagbasit/Zaviya) · [Documentation](https://steamos-arm-port.github.io/zaviya/) · [Releases and downloads](https://github.com/hashtagbasit/Zaviya/releases)
 
 ---
 
